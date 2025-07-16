@@ -1,0 +1,84 @@
+1
+00:00:00,080 --> 00:00:03,620
+So our next big O notation is O of one.
+
+2
+00:00:03,860 --> 00:00:05,330
+So let's start out with some code.
+
+3
+00:00:05,330 --> 00:00:12,050
+Here we have a function called add items, and all we're going to do is we're going to return n plus
+
+4
+00:00:12,050 --> 00:00:15,820
+n, There's only one operation here and that's the addition.
+
+5
+00:00:15,830 --> 00:00:25,130
+So it doesn't matter if N is one or n is a million, the number of operations is going to be one, and
+
+6
+00:00:25,130 --> 00:00:26,780
+that is O of one.
+
+7
+00:00:27,840 --> 00:00:29,340
+Well, what if we add.
+
+8
+00:00:30,030 --> 00:00:31,170
+Another edition.
+
+9
+00:00:31,500 --> 00:00:33,940
+Well, now, that's two operations, right?
+
+10
+00:00:33,960 --> 00:00:34,850
+O of two.
+
+11
+00:00:34,860 --> 00:00:40,230
+And as you may have guessed, we're going to simplify this and make it o of one.
+
+12
+00:00:40,910 --> 00:00:46,190
+So o of one a lot of times is referred to as constant time.
+
+13
+00:00:46,490 --> 00:00:49,670
+So this situation here where we have two additions.
+
+14
+00:00:50,370 --> 00:00:53,730
+It's two operations that is constant.
+
+15
+00:00:53,760 --> 00:00:59,700
+No matter what n is, the number of operations does not change as in changes.
+
+16
+00:01:00,260 --> 00:01:03,800
+So let's take a look at this on the graph.
+
+17
+00:01:04,989 --> 00:01:07,080
+Just a flat line across the bottom.
+
+18
+00:01:07,080 --> 00:01:10,640
+It is the most efficient o.
+
+19
+00:01:10,950 --> 00:01:14,820
+Nothing is more efficient than O of one.
+
+20
+00:01:14,820 --> 00:01:19,170
+Remember you will also hear this referred to as constant time.
+
+21
+00:01:19,170 --> 00:01:23,370
+So if you hear that phrase, that is o of one.
+
